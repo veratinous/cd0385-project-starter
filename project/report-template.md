@@ -1,9 +1,9 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### NAME HERE
+#### Magbuwe Vera
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-TODO: Add your explanation
+still working on the model
 
 ### What was the top ranked model that performed?
 TODO: Add your explanation
@@ -20,7 +20,7 @@ TODO: Add your explanation
 TODO: Add your explanation
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
-TODO: Add your explanation
+TODO: Autogluon
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
